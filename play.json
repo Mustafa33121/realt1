@@ -1,0 +1,51 @@
+{
+  "data": {
+    "productRetrieve": {
+      "__typename": "Product",
+      "contentRating": {
+        "__typename": "ProductContentRating",
+        "name": "PEGI_16"
+      },
+      "edition": {
+        "__typename": "ProductEdition",
+        "name": ""
+      },
+      "id": "EP7839-PPSA11382_00-8139869505025767",
+      "localizedGenres": [
+        {
+          "__typename": "LocalizedGenre",
+          "value": "Unique"
+        }
+      ],
+      "name": "The Wreck | PS4 & PS5",
+      "npTitleId": "PPSA11382_00",
+      "skus": [
+        {
+          "__typename": "Sku",
+          "displayPrice": "499,00 TL",
+          "id": "EP7839-PPSA11382_00-8139869505025767-E002",
+          "name": "Game",
+          "price": 49900,
+          "type": "STANDARD"
+        }
+      ],
+      "starRating": {
+        "__typename": "StarRating",
+        "averageRating": 4.3
+      },
+      "webctas": [
+        {
+          "__typename": "GameCTA",
+          "price": {
+            "__typename": "Price",
+            "basePrice": "499,00 TL",
+            "discountedPrice": "499,00 TL",
+            "serviceBranding": [
+              "NONE"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
